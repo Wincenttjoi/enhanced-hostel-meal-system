@@ -1,5 +1,8 @@
 # ehms
 
+## Documentation
+https://docs.google.com/document/d/1WKd39_IjsbN3otFYunXsvvmPAzss-GVggSzvITioh4k/edit?usp=sharing
+
 ## Project setup
 ```
 npm install
